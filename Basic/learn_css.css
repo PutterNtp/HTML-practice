@@ -1,0 +1,18 @@
+/*selected tag{
+property : value
+}*/
+
+body{
+  background-color: red
+}
+
+li{
+  color: blue
+}
+.topitems{
+  color: green
+}
+
+#two{
+  border: 3px solid black
+}
